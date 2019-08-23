@@ -1,0 +1,184 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.banner-img{
+	width: 100%;
+	float: left;
+	background: url(../img/homepagebanner.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+
+
+}
+.banner-cover{
+	width: 100%;
+	background:#00999966;
+	float: left;
+}
+h1{
+	font-family: 'Courgette', cursive;
+	text-align: center;
+	margin: 30px 0;
+	color: yellow;
+	font-weight: bolder;
+	font-size: 50px;
+}
+.two{
+	text-align: center;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+	margin: 30px 0;
+	padding: 20px;
+}
+nav ul li a{
+	font-size: 25px;
+	color: white;
+}
+h2{
+	background: #00c2c2a3;
+	text-align: center;
+	color: white;
+	padding: 30px;
+	margin-top:50px;
+}
+.three{
+	margin-top: 50px;
+}
+.three p{
+	color:white;
+	text-align: justify;
+	font-size: 18px;
+	margin: 30px 0;
+}
+.underline{
+	display: block;
+	width: 10%;
+	border-bottom: 2px solid white;
+	margin-bottom: 30px;
+}
+.btn-one{
+	background: transparent;
+	text-align: center;
+	font-size: 20px;
+	padding:6px 35px;
+	margin: 30px 150px 300px;
+	border: 1.5px solid white;
+}
+.welcome{
+	width: 100%;
+	float: left;
+	background: grey;
+}
+.five{
+	position: relative;
+	margin-top: 30px;
+}
+.pic-one{
+	position: absolute;
+	max-width: 50%;
+	top:15%;
+	left: 10%;
+}
+.pic-two{
+	position: absolute;
+	max-width:50%;
+	left:38%;
+	top:19%;
+	
+
+}
+.pic-three{
+	position:absolute;
+	max-width:35%;
+	top: 21%;
+	left:76%;
+
+
+}
+.pic-four{
+	position:absolute;
+	max-width:40%;
+	top: 35%;
+	left:55%;
+
+}
+.four{
+	margin-top: 30px;
+}
+h3{
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	margin: 30px 0;
+	text-transform: uppercase;
+}
+.underline-one{
+	display: block;
+	width: 10%;
+	border-bottom: 2px solid white;
+	margin-bottom: 30px;
+	
+
+
+}
+.four p{
+	color: white;
+	text-align: justify;
+	margin-bottom: 60px;
+}
+.another{
+	width: 100%;
+	float: left;
+	background: black;
+
+}
+h4{
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 70px 0 20px;
+	font-size: 40px;
+}
+.underline-two{
+	display: block;
+	width: 10%;
+	border-bottom: 2px solid white;
+	margin-bottom: 30px;
+}
+	
+
+.six p{
+	color: white;
+	text-align: justify;
+	
+}
+
+	.btn-another{
+	background: transparent;
+	text-align: center;
+	font-size: 20px;
+	padding:6px 35px;
+	margin: 30px 0;
+	border: 1.5px solid white;
+}
+.pic-five{
+	margin:150px 20px 150px 60px;
+}
+footer{
+	width: 100%;
+	float: left;
+	background:#F24837;
+}
+h5{
+	text-transform: uppercase;
+	color: white;
+	font-size: 15px;
+	margin: 40px 0;
+}
